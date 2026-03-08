@@ -1,0 +1,3 @@
+root - INFO - SUCCESS: There are 20000 rows in the dataset
+root - INFO - SUCCESS: Your data was successfully read in
+root - ERROR - ERROR: We were not able to find your file
